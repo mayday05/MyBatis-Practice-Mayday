@@ -1,4 +1,4 @@
-package cn.may.mybatisdemo;
+package cn.may.mybatis;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
